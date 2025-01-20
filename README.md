@@ -14,17 +14,16 @@ This repository contains an HR Attrition Dashboard designed to provide insights 
 ## Repository Contents
 
 - **Hr Attrition.pbix**: The Power BI file containing the interactive HR Attrition Dashboard.
-- **1.2 people_data.csv**: The first dataset used to build the dashboard.
-- **1.3 people_employment_history.csv**: The second dataset used to build the dashboard.
+- **Dataset.xlsx**: The dataset used to build the dashboard.
 
 ## Data Sources
 
-The dashboard uses anonymized HR data, including employee satisfaction surveys, job role information, and performance metrics. The data is provided in two CSV files (`1.2 people_data.csv` and `1.3 people_employment_history.csv`).
+The dashboard uses anonymized HR data, including employee satisfaction surveys, job role information, and performance metrics. The data is provided in  (`Dataset.xlsx`).
 
 ## How to Use
 
 1. Clone the repository to your local machine.
 2. Open the `Hr Attrition.pbix` file using Power BI.
-3. Ensure that the data files (`1.2 people_data.csv` and `1.3 people_employment_history.csv`) are in the correct directory as referenced in the Power BI file.
+3. Ensure that the data files `Dataset.xlsx`  are in the correct directory as referenced in the Power BI file.
 4. Explore the different tabs and filters to analyze attrition trends.
 
